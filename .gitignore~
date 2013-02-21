@@ -13,6 +13,7 @@
 	nbactions.xml
 	nb-configuration.xml
 	nbproject/*
+	nbproject/*~
 
 # Linux
 	.*
